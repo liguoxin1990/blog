@@ -283,6 +283,22 @@ footer {
   text-align: center;
 }
 
+#logo {
+	margin: -65px 10px -30px -50px;
+	float:right;
+	background: url('/images/gems-15.png');
+	height: 213px; width:204px;
+}
+
+.fade {
+  color:#c5c5c5;
+  }
+
+.pink { color: #f5a2c6; }
+.green { color: #23af4c; }
+.blue { color: #0383c9; }
+.orange { color: #fba919; }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
