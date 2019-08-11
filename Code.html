@@ -1,9 +1,9 @@
 ---
 layout: default1
-title: Code
 permalink: /code/
 ---
-
-{% for post in site.categories.code %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+<div id="archives"></div>
+    {% for post in site.categories.code %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</div>
