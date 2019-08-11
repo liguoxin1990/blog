@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" type="text/css" href="/css/default.css" />
     <link rel="stylesheet" type="text/css" href="/css/pretty_code.css" />
-
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -38,8 +38,8 @@
       </div>
     </div>
 
-    <div id="content">
-      {{ content }}
+    <div id="main" role="main" class="container">
+        {{ content }}
     </div>
 
     <div class="wrapper-footer">
