@@ -7,9 +7,9 @@ layout: default1
 
   <div class="post-categories">
     {% if post %}
-      {% assign categories = post.categories %}
+      {% assign tags = post.tags %}
     {% else %}
-      {% assign categories = page.categories %}
+      {% assign tags = page.tags %}
     {% endif %}
 
     {% for tag in tags %}
