@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hey there! This is Anthony's blog. Hope you have fun!
+疲惫生活的英雄梦想
 
-### More Information about me
+### 关于我
 
-* Taurus
-* Old world of warcraft fan
-* A big manga fan, all time favourite manga including Gintama, fairy tail, the list goes on...
-* Coding training ongoing. [Codewars](https://www.codewars.com/users/renshou753)
+* 金牛座， 90后
+* 曾经是魔兽世界铁杆玩家
+* 动漫粉, 最喜欢银魂，七宗罪，等等
+* 喜欢探索新鲜事物，喜欢挑战自己
+* A sentimental yearning for reality that isn't genuine
 
