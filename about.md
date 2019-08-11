@@ -8,9 +8,11 @@ permalink: /about/
 
 ### 关于我
 
-* 金牛座， 90后
-* 曾经是魔兽世界铁杆玩家
-* 动漫粉, 最喜欢银魂，七宗罪，等等
-* 喜欢探索新鲜事物，喜欢挑战自己
-* A sentimental yearning for reality that isn't genuine
+<ul>
+  <li>金牛座， 90后</li>
+  <li>曾经是魔兽世界铁杆玩家</li>
+  <li>动漫粉, 最喜欢银魂，七宗罪，等等</li>
+  <li>喜欢探索新鲜事物，喜欢挑战自己</li>
+  <li>A sentimental yearning for reality that isn't genuine</li>
+</ul>
 
