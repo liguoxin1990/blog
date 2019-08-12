@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 通过Github page建立静态博客-1-Jekyll now模板
+title: 通过Github page建立博客-1-Jekyll now模板
 categories: tech
-tags: github page静态博客
+tags: github_page静态博客
 ---
 
 很高兴今天跟大家介绍如何通过Github page建立免费的个人博客，无需去担心数据库和安全，无需安装应用或申请域名，10分钟建立极简的个人博客。
