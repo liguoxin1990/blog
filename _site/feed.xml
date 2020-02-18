@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-18T19:28:28+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chenhao Li</title><subtitle>朝露曇花，咫尺天涯，人道是黃河十曲，畢竟東流​​去。八千年玉老，一夜枯榮，問蒼天此生何必？昨夜風吹處，落英聽誰細數。九萬里蒼穹，御風弄影，誰人與共？千秋北斗，瑤宮寒苦，不若神仙眷侶，百年江湖。</subtitle><entry><title type="html">通过Github page建立博客-4-Markdown</title><link href="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-4-Markdown/" rel="alternate" type="text/html" title="通过Github page建立博客-4-Markdown" /><published>2019-08-12T00:00:00+08:00</published><updated>2019-08-12T00:00:00+08:00</updated><id>http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github%20page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-4-Markdown</id><content type="html" xml:base="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-4-Markdown/">&lt;p&gt;这个视频向大家大致讲解markdown的语法。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/SoKSwhMuHq8&quot; title=&quot;Everything Is AWESOME&quot;&gt;&lt;img src=&quot;/images/github_page/1.PNG&quot; alt=&quot;Everything Is AWESOME&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="github_page静态博客" /><summary type="html">这个视频向大家大致讲解markdown的语法。</summary></entry><entry><title type="html">通过Github page建立博客-2-建立域名</title><link href="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-2-%E5%BB%BA%E7%AB%8B%E5%9F%9F%E5%90%8D/" rel="alternate" type="text/html" title="通过Github page建立博客-2-建立域名" /><published>2019-08-12T00:00:00+08:00</published><updated>2019-08-12T00:00:00+08:00</updated><id>http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github%20page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-2-%E5%BB%BA%E7%AB%8B%E5%9F%9F%E5%90%8D</id><content type="html" xml:base="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-2-%E5%BB%BA%E7%AB%8B%E5%9F%9F%E5%90%8D/">&lt;p&gt;这个视频向大家介绍怎么给自己的github page增加自定义的域名。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/Y-fmxhhoj8w&quot; title=&quot;Everything Is AWESOME&quot;&gt;&lt;img src=&quot;/images/github_page/1.PNG&quot; alt=&quot;Everything Is AWESOME&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="github_page静态博客" /><summary type="html">这个视频向大家介绍怎么给自己的github page增加自定义的域名。</summary></entry><entry><title type="html">通过Github page建立博客-3-添加文章-jekyll结构</title><link href="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-3-%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0-jekyll%E7%BB%93%E6%9E%84/" rel="alternate" type="text/html" title="通过Github page建立博客-3-添加文章-jekyll结构" /><published>2019-08-12T00:00:00+08:00</published><updated>2019-08-12T00:00:00+08:00</updated><id>http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github%20page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-3-%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0-jekyll%E7%BB%93%E6%9E%84</id><content type="html" xml:base="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-3-%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0-jekyll%E7%BB%93%E6%9E%84/">&lt;p&gt;这个视频向大家讲解怎么给自己的github page添加文章，并简单介绍jekyll静态博客的结构。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/O1CjWoBWKmo&quot; title=&quot;Everything Is AWESOME&quot;&gt;&lt;img src=&quot;/images/github_page/1.PNG&quot; alt=&quot;Everything Is AWESOME&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="github_page静态博客" /><summary type="html">这个视频向大家讲解怎么给自己的github page添加文章，并简单介绍jekyll静态博客的结构。</summary></entry><entry><title type="html">通过Github page建立博客-1-Jekyll now模板</title><link href="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-1-Jekyll-now%E6%A8%A1%E6%9D%BF/" rel="alternate" type="text/html" title="通过Github page建立博客-1-Jekyll now模板" /><published>2018-11-11T00:00:00+08:00</published><updated>2018-11-11T00:00:00+08:00</updated><id>http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github%20page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-1-Jekyll%20now%E6%A8%A1%E6%9D%BF</id><content type="html" xml:base="http://localhost:4000/tech/%E9%80%9A%E8%BF%87Github-page%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2-1-Jekyll-now%E6%A8%A1%E6%9D%BF/">&lt;p&gt;很高兴今天跟大家介绍如何通过Github page建立免费的个人博客，无需去担心数据库和安全，无需安装应用或申请域名，10分钟建立极简的个人博客。&lt;/p&gt;
+
+&lt;p&gt;Jekyll now项目地址: https://github.com/barryclark/jekyll-now&lt;/p&gt;
+
+&lt;p&gt;如何添加自己的文章：&lt;/p&gt;
+
+&lt;p&gt;去自己xxx.github.io这个项目下_post文件夹里，添加文件即可。注意github page是以markdown去展示，为了好的展示效果建议可以去学习markdown语法。&lt;/p&gt;
+
+&lt;p&gt;视频在下面：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/RQAXzv0zZSA&quot; title=&quot;Everything Is AWESOME&quot;&gt;&lt;img src=&quot;/images/github_page/1.PNG&quot; alt=&quot;Everything Is AWESOME&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="github_page静态博客" /><summary type="html">很高兴今天跟大家介绍如何通过Github page建立免费的个人博客，无需去担心数据库和安全，无需安装应用或申请域名，10分钟建立极简的个人博客。</summary></entry><entry><title type="html">Louvre</title><link href="http://localhost:4000/personal/Louvre/" rel="alternate" type="text/html" title="Louvre" /><published>2018-11-03T00:00:00+08:00</published><updated>2018-11-03T00:00:00+08:00</updated><id>http://localhost:4000/personal/Louvre</id><content type="html" xml:base="http://localhost:4000/personal/Louvre/">&lt;p&gt;18年11月2日第一次参观卢浮宫，带给自己的绝不仅仅是震撼，法国人民保护历史的观念可能早从拿破仑时代就有开始，短短几百年，卢浮宫已经收猎了来自法国本土，欧洲，埃及，希腊，近东等地的珍贵文物，这些文物没有因为战争而被毁坏，也没有因为中国文化大革命这般把自己的历史全盘抹去，讽刺的是中国三十年河东，三十年又河西，一会要全面反传统，一面又要文化传播弘扬主旋律，一味建什么孔子学院，试问一个民族如果连自己都不坚持或信任自己的体制或者文化，又谈怎么宣传，皇帝的新装在中国活生生上演。&lt;/p&gt;
+
+&lt;p&gt;这个时代活脱脱是一个闹剧，一切历史都可以被赢家粉饰。我在意识到卢浮宫到底是多么宏伟的一霎那泪水差点蹦出来，之前对法国人不甚了解，他们其实很会自嘲，也有很强的精神领域，浪漫或者艺术只是表面，他们有着对人类文明的捍卫观念，从某个角度上来说，他们的年轻人相比其他国家的年轻人更可能发现人为什么活着。毕竟在欧洲有太多机会接触到不同的文化和事物，不容易对世界有那种非黑即白的认知，世界太大，荣华富贵都是过往云烟，一味的物质其实真的只是浅薄和无知，当我看到卢浮宫有着世界文明那般程度的浓缩之后，一霎那我用一天的时间走完了世界几千年。也罢，对酒当歌，人生几何，作为一个人更需要明白你自己为什么活着，能不能做出一些贡献，有自己的精神场，才是我现期的要务了罢。&lt;/p&gt;</content><author><name></name></author><category term="日记" /><summary type="html">18年11月2日第一次参观卢浮宫，带给自己的绝不仅仅是震撼，法国人民保护历史的观念可能早从拿破仑时代就有开始，短短几百年，卢浮宫已经收猎了来自法国本土，欧洲，埃及，希腊，近东等地的珍贵文物，这些文物没有因为战争而被毁坏，也没有因为中国文化大革命这般把自己的历史全盘抹去，讽刺的是中国三十年河东，三十年又河西，一会要全面反传统，一面又要文化传播弘扬主旋律，一味建什么孔子学院，试问一个民族如果连自己都不坚持或信任自己的体制或者文化，又谈怎么宣传，皇帝的新装在中国活生生上演。</summary></entry><entry><title type="html">断舍离</title><link href="http://localhost:4000/personal/%E6%96%AD%E8%88%8D%E7%A6%BB/" rel="alternate" type="text/html" title="断舍离" /><published>2017-12-27T00:00:00+08:00</published><updated>2017-12-27T00:00:00+08:00</updated><id>http://localhost:4000/personal/%E6%96%AD%E8%88%8D%E7%A6%BB</id><content type="html" xml:base="http://localhost:4000/personal/%E6%96%AD%E8%88%8D%E7%A6%BB/">&lt;p&gt;生活在一个物质亢余的年代是辛苦的，所有人都拼命得到物质，人与人评价的标准无非是金钱，女人，地位，这些标准面目可憎，令人厌恶，每次我回到家姥姥都滔滔不绝地说我太瘦要多吃饭，穿的太少赶紧买衣服，我知道她本质上是为我好；可这些东西与她有什么关系？吃多少穿什么是我自己的事情，与她有什么关系？难道我不知道自己喜欢什么生活方式？中国人的家庭最令我讨厌的是总有人喜欢对他人生活指手画脚，这些点让我拼命的想逃离家庭的束缚。&lt;/p&gt;
+
+&lt;p&gt;现代社会难能可贵的是断舍离，抛弃一切不是必须的东西，享受极简主义的生活方式，落实到家庭生活中80%都是些鸡毛蒜皮的琐事，而我们却被这些琐事占据了大量的精力心神，要享受纯粹的生活必须放弃亢余的物质，扔掉80%不常用的衣服，物件。&lt;/p&gt;</content><author><name></name></author><category term="日记" /><summary type="html">生活在一个物质亢余的年代是辛苦的，所有人都拼命得到物质，人与人评价的标准无非是金钱，女人，地位，这些标准面目可憎，令人厌恶，每次我回到家姥姥都滔滔不绝地说我太瘦要多吃饭，穿的太少赶紧买衣服，我知道她本质上是为我好；可这些东西与她有什么关系？吃多少穿什么是我自己的事情，与她有什么关系？难道我不知道自己喜欢什么生活方式？中国人的家庭最令我讨厌的是总有人喜欢对他人生活指手画脚，这些点让我拼命的想逃离家庭的束缚。</summary></entry><entry><title type="html">终身学习读书笔记</title><link href="http://localhost:4000/personal/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" rel="alternate" type="text/html" title="终身学习读书笔记" /><published>2017-12-24T00:00:00+08:00</published><updated>2017-12-24T00:00:00+08:00</updated><id>http://localhost:4000/personal/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0</id><content type="html" xml:base="http://localhost:4000/personal/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">&lt;h2 id=&quot;教育模式&quot;&gt;教育模式&lt;/h2&gt;
+
+&lt;p&gt;教育制度分为三种，第一种所谓应试教育，运用考试的力量迫使学生学习，这种方式学生的参与性较低，但却是最公平的方式，无论是寒门还是贵子都要参与统一的考试，这种方式着重把学生培育成一件工具，或是一台机器，即培养所谓对社会有用的人，或有用的工具。&lt;/p&gt;
+
+&lt;p&gt;第二种为素质教育，这其实是着重培养中产阶级的教育方式，除学习之外会要求学生有很多的兴趣爱好，美国主要倡导的即这种方式，常青藤常常要求学生积极参与社会活动，体育运动，这些贵族运动其实无形之中把贫穷的学习拒之门外；比较与中国阶级流动的减缓停滞，美国形成了阶级的固化，如果从小没有相应的环境培养各类兴趣爱好很好进入好的大学。&lt;/p&gt;
+
+&lt;p&gt;素质教育的核心是成为一个更好的人，本质上成为更好的自己是为了被利用，而第三种，也是最高层的教育模式却对此不屑一顾，他们只需要利用管理他人，相比前两种模式第三种教育只注重培养学生做决策的能力，他们培养出的学生可以不会做ppt也可以不会excel，他们只需要在正确的时机做出正确的决定。在这种教育模式下，教授会对学生比较宽松，他们会要求学生无论是好是坏，为自己所做出的决定负责。&lt;/p&gt;
+
+&lt;h2 id=&quot;知行合一&quot;&gt;知行合一&lt;/h2&gt;
+
+&lt;p&gt;在互联网时代下，地位背景金钱等等都变得不再重要，唯一重要的东西是认知，有钱并不能保证你赚更多的钱，有高人一等的认知会在这个世纪胜出，一个行业的更迭可能只有十几年，旧的知识体系在新的时代下经受不住挑战，要胜出就要不断改进自己的认知结构，终身学习，先提升认识确定超人一等的目标，再用行动和执行力妥善跟上自己思想的步伐，言必至，行必果。&lt;/p&gt;
+
+&lt;p&gt;认知升级的途径：&lt;/p&gt;
+
+&lt;p&gt;1） 承认自己的无知，承认自己不知道 （万物皆有裂痕，那是光照进来的地方）
+2） 采取行动，把知道变成行动
+3） 永远和比你知道的多的人在一起&lt;/p&gt;
+
+&lt;h2 id=&quot;一只眼死两只眼活&quot;&gt;一只眼死两只眼活&lt;/h2&gt;
+
+&lt;p&gt;培养两种以上的禀赋，在一个领域做到前1%是非常困难的，可是在两个不同的领域做到前10%就不是那么难，考虑到知识的更新换代，有两种不同的禀赋相长相承有更有助于职业的发展和个人的进步。&lt;/p&gt;
+
+&lt;p&gt;在查理芒格的穷查理宝典中更强调了这一点，查理甚至建议一百种左右的跨学科学习。&lt;/p&gt;</content><author><name></name></author><category term="日记" /><summary type="html">教育模式</summary></entry><entry><title type="html">Review</title><link href="http://localhost:4000/personal/Review/" rel="alternate" type="text/html" title="Review" /><published>2017-11-17T00:00:00+08:00</published><updated>2017-11-17T00:00:00+08:00</updated><id>http://localhost:4000/personal/Review</id><content type="html" xml:base="http://localhost:4000/personal/Review/">&lt;p&gt;1  举出3-5件过去发生的不好的事，写下对自己的积极信息，可能对未来产生好的影响？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;体育不好，从小不太合群   — 生活独立，可以自己自由地去做喜欢的事情，看了不少书。&lt;/li&gt;
+  &lt;li&gt;大学荒废了几年时间，没有形成核心竞争力  —  把想玩的玩了一遍，之后可以更专心的工作学习，这段时间对我来说更多是试错；经历了几段感情，人变得更为成熟。&lt;/li&gt;
+  &lt;li&gt;高考差了几分，没考上同济 — 即使上了也是语言类，其实今后怎样更多还是看自己的决策智慧，是否敢于做出突破和改变。&lt;/li&gt;
+  &lt;li&gt;自卑，小城市长大 — 首先要正视自己的过去和弱点，不能逃避，勇敢生活并做出改变，尝试解决问题rather than避重就轻&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2  检视一下最近做的事中哪些对当下有好处但对未来几乎没有价值甚至有害，你决定减少哪件事的频率，会采取哪些方法？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;玩手机游戏，再次陷入了沉迷的怪圈 — 卸载街篮&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3  列举3-5件做过最有成就感的事， 列举对自己或他人的影响。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;通过AA L1&lt;/li&gt;
+  &lt;li&gt;帮俄罗斯女生写了篇R的论文&lt;/li&gt;
+  &lt;li&gt;通过CPA的几门考试，考入MBA&lt;/li&gt;
+  &lt;li&gt;学了几门编程语言，英语熟练交流&lt;/li&gt;
+  &lt;li&gt;自己制作游戏机&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;使我意识到了通过自己的努力literally我可以实现任何事，nothing is impossible， just do it.&lt;/p&gt;
+
+&lt;p&gt;4  列举3-5个未来五年打算实现的目标，如何实现它。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;成为一名编程高手，一个黑客。&lt;/li&gt;
+  &lt;li&gt;在技术领域成为专家，实现兴趣与工作的结合&lt;/li&gt;
+  &lt;li&gt;成为一个合格的管理者和沟通者&lt;/li&gt;
+  &lt;li&gt;找到真爱，哈哈哈&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;5  除了工作，写下3-5件打算每周去做的让自己放松下的事情。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;玩游戏（注意不能玩网游）&lt;/li&gt;
+  &lt;li&gt;看书，每周至少五小时，可以是英文也可以是中文&lt;/li&gt;
+  &lt;li&gt;做一件之前没做过的新鲜的事&lt;/li&gt;
+  &lt;li&gt;youtube&lt;/li&gt;
+  &lt;li&gt;有声书&lt;/li&gt;
+  &lt;li&gt;锻炼&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;6 写下一件打算长期保持的爱好，每周多少时间去做这件事。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;编程，5小时以上&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="日记" /><summary type="html">1 举出3-5件过去发生的不好的事，写下对自己的积极信息，可能对未来产生好的影响？</summary></entry><entry><title type="html">reckless</title><link href="http://localhost:4000/personal/reckless/" rel="alternate" type="text/html" title="reckless" /><published>2017-11-09T00:00:00+08:00</published><updated>2017-11-09T00:00:00+08:00</updated><id>http://localhost:4000/personal/reckless</id><content type="html" xml:base="http://localhost:4000/personal/reckless/">&lt;p&gt;最近在比较好的循环当中，工作解决了不少问题，心态也逐渐回归平静。i&lt;/p&gt;
+
+&lt;p&gt;是要在冒险与宁静中找一个平衡点的，要经常做一些比较新奇的事情，不需要考虑后果与影响，年轻就该是reckless。&lt;/p&gt;
+
+&lt;p&gt;听见一个故事还是很感动，Chenhao告诉我，她刚毕业不久后孤身去云南，本来只是一时兴起，可后来她临时决定徒步去西藏，这一路就是几个月，途中经历了不少麻烦，能搭到便车她会蹭一下，有时候也有来自全国各地的驴友，可大多时候就真的只是一个人而已，忍受无尽的孤单，也许有时候找不到借宿的地方，还会忍饥挨饿。&lt;/p&gt;
+
+&lt;p&gt;其实没有什么事情是做不了的，做事也不需要太计较利弊得失，人在大多数时候就是说的太多，做的太少，我在每一阶段做出的最有利于我自己的决策，可能在别人看来也不过是井底之蛙的举动而已，要超越，更多时候需要自己不懈的努力，附加卓越的经历，这些经历会让你看得更远，你要让你自己变得更有趣，更生动，成为一个更为真实的人，无论利弊得失，坦率的分享自己的过去，坦率的面对自己的弱点，坦率的面对自己做不喜欢让人触碰的东西，只有你自己认识到了自己的问题，才有机会去克服并改变。&lt;/p&gt;</content><author><name></name></author><category term="日记" /><summary type="html">最近在比较好的循环当中，工作解决了不少问题，心态也逐渐回归平静。i</summary></entry><entry><title type="html">开始</title><link href="http://localhost:4000/personal/%E5%BC%80%E5%A7%8B/" rel="alternate" type="text/html" title="开始" /><published>2016-09-27T00:00:00+08:00</published><updated>2016-09-27T00:00:00+08:00</updated><id>http://localhost:4000/personal/%E5%BC%80%E5%A7%8B</id><content type="html" xml:base="http://localhost:4000/personal/%E5%BC%80%E5%A7%8B/">&lt;p&gt;好像好几年没有动笔写过什么东西了，可能生活真的如此单调每天三点一线，又抑或想到了什么听到了什么可最后表达出来就成了另外一种情境。我一直是个口不对心的人，是啊如果早点认识到这点就好了免得带给大家很多麻烦。其实时间还是像白驹过隙般流过的，转眼之间毕业业已四年，记得大学时候刚到二十岁，我在校内网post一条信息说哎呀我也是奔三的人了，当时还有不少同学笑我，可转眼间也已成事实了。其实这几年身体毛病是不少的，牙痛的死去活来又是补牙又是根管，感冒不断时常还胃伤寒，这些都是家常便饭我也就认栽了，谁叫我以前不会爱惜身体。在夜晚行走的人只看到了前面路边的灯光，而没有看到身后的月亮。我是罪有应得的。&lt;/p&gt;
+
+&lt;p&gt;但这不是说我的生活是一成不变的，恰恰相反，我改掉了以前不少的臭毛病。上学时候的我总是习惯瞻前顾后畏首畏尾，好像一个错误就真的有什么不可挽回的后果似的，其实这都是我自己心里的小怪兽在作祟，我表面上谦卑，可内心重面子的紧，生怕自己的不小心会对人家造成什么困扰。其实这都是我的自相情愿，我在当时所苦思冥想去思考的最优解在长远来看根本就是错误。人总会因为视野的原因被自己固有的思维所困住，所谓最优解也不过是当前情境下做出的推测，而剧情长期怎么发展完全不会受到我的控制。我的合理揣测在旁观高人看来可能就是个傻逼，当然人要认识到自己的局限性并合理做出改变才能进步，离开自满的那一小片舒适区，向未知的可能性迈进，每天都改变一点点旧有的思维。&lt;/p&gt;
+
+&lt;p&gt;刚毕业我是过得比较惨淡的，在一家小公司做会计，勉强生活而已谈不上有什么远景。当时有个女朋友是唯一幸运的事吧，她会教我怎么做饭怎么去经营自己的小生活，我从来不是一个非常自立或者自信的人，可她让我懂得了生命中有一种东西你必须要鼓足勇气去勇敢面对，无论如何都要保持乐观，我想这会是我的精神财富吧。当然最后还是因为我不想settle down而分手了，虽然可惜但我不后悔，我不是一个很会照顾别人的人，说白了就是情商低吧，家庭对我来说太沉重了，我想我当时根本没有能力去承担。&lt;/p&gt;
+
+&lt;p&gt;印象当中13年的时候在外公奉贤那边待了半年，当时辞掉了工作，什么都不要，什么都不想，抱了几本书回去了。我不是一个厚脸皮的人，也不想一天宅在家里，找了一个区图书馆，每天一大早爬起来去图书馆，晚上图书馆关门之后在慢慢悠悠坐着公车回家，那是我最轻松的一段时间，有时候一天可以仅仅说一两句话，抑或一句都不说，抱着本书坐在图书馆的角落，慢慢悠悠的给自己讲故事听，然后大脑里两个我在唱对角戏，哎呀呀那边那个人好傻，衬衫穿反了啦；另一个人就暗搓搓的说你自己不一样很蠢，经常袜子反着穿，loser啦什么什么的。当时那半年找了几本CPA的书来看，看厌了就跑到奉贤华东理工那里晃荡，这是一个民风淳朴的男校，举目望去都是男人，我跑到湖边一板一眼地朗读英语一边端详走过的汉子们，他们不似我，或多或少眼里都有些光芒。&lt;/p&gt;
+
+&lt;p&gt;我习惯做一个循规蹈矩的好孩子，但其实这样形容我我会最不中意，没有人喜欢一成不变受人摆布的生活，厌倦之后我变得特别叛逆，想要去掀女生的裙子，打架骂街无恶不作。这并不是说我本质是个人渣，而是太多条条框框局限了的思维，我看不到本来显而易见的情愫，抑或机会，于是乎在大学转而沉溺游戏，辗转反侧于另一个世界。其实世界本该是轮回的，我在这个世界也不过是一个渺小的存在，而我依然期望自己站在世界的中心，这便是命运的悖论，也是我的幼稚。&lt;/p&gt;
+
+&lt;p&gt;但又有谁说过要等待呢，我已厌倦了等待，如果回忆与情愫都日渐深沉，那么诗歌与远方都无需完整。&lt;/p&gt;
+
+&lt;p&gt;我还是那个我，可又添加了几分沧桑与事故，运气还是不差的。辞职半年之后重新开始找工作，从无金融从业经验的我竟然意外的进入了一家公司从事衍生品海外运营，说来也是讽刺，面试当天我都不知道公司所做的业务是什么，自己面的什么岗位也是双眼一抹黑，一面居然直接进来外国友人面试，而我完全没有准备英文简历，当时真是连骂了自己几声娘，所幸破罐子破摔放胆乱说，最后也是因为英语侥幸过关。生活其实就是这么讽刺，最初计划的和期间达成的往往南辕北辙，我们只好亦步亦趋一点点修正计划，好让自己不要偏离坐标轴太远，为了观察爱情，也索性离其千里期望能看到它本来的样子。&lt;/p&gt;
+
+&lt;p&gt;我变得关心政治，关注弱势群体，期望民主真的能达到它的现实意义，同时我也make a compromise. 但我不放弃变化，唯愿一生不羁放纵爱自由。&lt;/p&gt;
+
+&lt;p&gt;生活还是有条不紊的进行着，可我越来越希望明天会做出一点改变，哪怕是什么不好的东西，也许会触动我尘封已久的痛觉。我倾尽全力，瞪着走来的人在我身边路过，又再走远，然后看不到他的背影。于是我忘记了本来的样子，都说勿忘初心，可是很多时候成长只不过因为我们有选择地忘记了某些永远理解不了的东西，而同时又记住了过去教会我们的事。&lt;/p&gt;</content><author><name></name></author><category term="日记" /><summary type="html">好像好几年没有动笔写过什么东西了，可能生活真的如此单调每天三点一线，又抑或想到了什么听到了什么可最后表达出来就成了另外一种情境。我一直是个口不对心的人，是啊如果早点认识到这点就好了免得带给大家很多麻烦。其实时间还是像白驹过隙般流过的，转眼之间毕业业已四年，记得大学时候刚到二十岁，我在校内网post一条信息说哎呀我也是奔三的人了，当时还有不少同学笑我，可转眼间也已成事实了。其实这几年身体毛病是不少的，牙痛的死去活来又是补牙又是根管，感冒不断时常还胃伤寒，这些都是家常便饭我也就认栽了，谁叫我以前不会爱惜身体。在夜晚行走的人只看到了前面路边的灯光，而没有看到身后的月亮。我是罪有应得的。</summary></entry></feed>
