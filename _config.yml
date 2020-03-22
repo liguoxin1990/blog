@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Chenhao Li
+name: liguoxin
 
 # Short bio or description (displayed in the header)
 description: 朝露曇花，咫尺天涯，人道是黃河十曲，畢竟東流​​去。八千年玉老，一夜枯榮，問蒼天此生何必？昨夜風吹處，落英聽誰細數。九萬里蒼穹，御風弄影，誰人與共？千秋北斗，瑤宮寒苦，不若神仙眷侶，百年江湖。
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/renshou753/renshou753.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: renshou753@gmail.com
+  email: liguoxin90@gmail.com
   facebook:
   flickr:
-  github: renshou753
+  github: 
   instagram:
-  linkedin: chenhao-li
+  linkedin: 
   pinterest:
-  rss: awesomeTony
+  rss: 
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UC2iGt4kxJxOIzF1zZcCEf9g/
+  youtube: 
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://renshou753.github.io/
+url: https://liguoxin1990.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
